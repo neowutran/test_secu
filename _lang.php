@@ -1,6 +1,6 @@
 <?php 
 echo "test4";
-echo "======\n"
+echo "======\n";
 print_r(get_defined_vars());
 echo "=======\n";
 $homepage = file_get_contents('index.php');
